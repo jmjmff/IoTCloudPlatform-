@@ -7,10 +7,13 @@ SmartFarmPlatform응용 프로그램
 
 
 ![image](https://github.com/jmjmff/IoTCloudPlatform-/assets/127866363/cd277d02-a9f0-42b1-8077-a391a4e7aa76)
+
 사물조회
 ![image](https://github.com/jmjmff/IoTCloudPlatform-/assets/127866363/7a9bab0a-517e-42c0-bd17-9d5fc00fbc3c)
+
 최신 상태 조회
 ![image](https://github.com/jmjmff/IoTCloudPlatform-/assets/127866363/b58ce81f-4145-4e6f-ba72-4ac9362a6c27)
+
 로그 조회
 ![image](https://github.com/jmjmff/IoTCloudPlatform-/assets/127866363/8a43eeec-66fa-4ac2-b168-e7735930ad64)
 
